@@ -2,7 +2,7 @@
 
 A group of developers that make games, and other things probably, you should ask them.
 
-> 2023
+> contact@universalblaster.org
 <!--
 
 **Here are some ideas to get you started:**
