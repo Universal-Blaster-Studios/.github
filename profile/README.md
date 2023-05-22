@@ -1,9 +1,8 @@
 ## Universal Blaster Studios
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A group of developers that make games, and other things probably, you should ask them.
 
-or something like that
-
+> 2023
 <!--
 
 **Here are some ideas to get you started:**
