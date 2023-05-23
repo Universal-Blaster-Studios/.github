@@ -2,6 +2,7 @@
 
 A group of developers that make games, and other things probably, you should ask them.
 
+### Need I elaborate further? I should? Oh, okay.
 > contact@universalblaster.org
 <!--
 
